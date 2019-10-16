@@ -1,4 +1,4 @@
-FROM cyversevice/rstudio-geospatial:3.6.0
+FROM cyversevice/rstudio-verse:3.6.0
 
 RUN apt-get update && apt-get install -y zlib1g-dev libxml2-dev
 
