@@ -7,4 +7,4 @@ RUN Rscript -e 'source("http://bioconductor.org/biocLite.R"); biocLite("edgeR");
 RUN Rscript -e 'source("http://bioconductor.org/biocLite.R"); biocLite("annotate"); biocLite("genefilter");'
 RUN Rscript -e 'source("http://bioconductor.org/biocLite.R"); biocLite("DESeq2");'
 RUN Rscript -e 'source("http://bioconductor.org/biocLite.R"); biocLite("ballgown");'
-© 2020 GitHub, Inc.
+# © 2020 GitHub, Inc.
